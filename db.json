@@ -1,0 +1,52 @@
+{
+  "clientes": [
+    {
+      "name": "Heli",
+      "business": "Harv System",
+      "email": "Helirosalesvillanueva@gmail.com",
+      "phone": "937244950",
+      "notes": "Si",
+      "id": 1
+    },
+    {
+      "name": "Lucia",
+      "business": "Harv System",
+      "email": "Helirosalesvillanueva@gmail.com",
+      "phone": "937244950",
+      "notes": "Si",
+      "id": 3
+    },
+    {
+      "name": "Bexabe",
+      "business": "Ing de punta",
+      "email": "Bexabev@gmail.com",
+      "phone": "1234567834537",
+      "notes": "si",
+      "id": 4
+    },
+    {
+      "name": "Alberto",
+      "business": "Foscam",
+      "email": "Alberto@foscam.cl",
+      "phone": "57457614857665",
+      "notes": "",
+      "id": 5
+    },
+    {
+      "name": "Bryan",
+      "business": "Gorzed",
+      "email": "Bryangalaxy@gmail.com",
+      "phone": "",
+      "notes": "si",
+      "id": 6
+    },
+    {
+      "name": "Wladimir",
+      "business": "Harv System",
+      "email": "Wladigoth@gmail.com",
+      "phone": "",
+      "notes": "",
+      "id": 7
+    }
+  ]
+}
